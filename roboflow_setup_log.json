@@ -1,0 +1,27 @@
+{
+  "small_parts": {
+    "status": "created",
+    "project_id": "muruga-vqhvd/model-1-small-parts-and-fasteners",
+    "url": "https://app.roboflow.com/muruga-vqhvd/muruga-vqhvd/model-1-small-parts-and-fasteners"
+  },
+  "mro_tools": {
+    "status": "created",
+    "project_id": "muruga-vqhvd/model-2-mro-hand-tools",
+    "url": "https://app.roboflow.com/muruga-vqhvd/muruga-vqhvd/model-2-mro-hand-tools"
+  },
+  "heavy_materials": {
+    "status": "created",
+    "project_id": "muruga-vqhvd/model-3-heavy-industrial-materials",
+    "url": "https://app.roboflow.com/muruga-vqhvd/muruga-vqhvd/model-3-heavy-industrial-materials"
+  },
+  "medical_pharma": {
+    "status": "created",
+    "project_id": "muruga-vqhvd/model-4-medical-and-pharma-supplies",
+    "url": "https://app.roboflow.com/muruga-vqhvd/muruga-vqhvd/model-4-medical-and-pharma-supplies"
+  },
+  "irregular_specialized": {
+    "status": "created",
+    "project_id": "muruga-vqhvd/model-5-irregular-and-specialized-goods",
+    "url": "https://app.roboflow.com/muruga-vqhvd/muruga-vqhvd/model-5-irregular-and-specialized-goods"
+  }
+}

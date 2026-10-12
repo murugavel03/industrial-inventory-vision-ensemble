@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+
+# IDE & Editor files
+.vscode/
+.idea/
+.cursor/
+
+# OS specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Datasets & raw download archives
+datasets/
+merged_output/
+raw_downloads/
+
+# Model weights & training runs
+runs/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.tflite
+
+# Logs
+*.log

@@ -1,0 +1,10 @@
+[
+  {
+    "status": "success",
+    "model_key": "irregular_specialized",
+    "best_weights": "runs\\train\\irregular_specialized_v1\\weights\\best.pt",
+    "elapsed_min": 335.0,
+    "map50": 0.8195600742376642,
+    "map50_95": 0.6327645275308328
+  }
+]
